@@ -1,3 +1,3 @@
 # depot-secret
 
-test push
+test push 2
